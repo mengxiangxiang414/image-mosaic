@@ -16,13 +16,13 @@
 `VLFeat库`
 ## 执行效果
 #### 两张原图
-<img src="https://github.com/mengxiangxiang414/image-mosaic/blob/master/uttower1.jpg" width="300">
-<img src="https://github.com/mengxiangxiang414/image-mosaic/blob/master/uttower2.jpg" width="300"><br>
+<img src="uttower1.jpg" width="300">
+<img src="uttower2.jpg" width="300"><br>
 
 #### 扭曲（wrap）后的效果图
-<img src="https://github.com/mengxiangxiang414/image-mosaic/blob/master/result_imgs/wrap.png" width="400">
+<img src="result_imgs/wrap.png" width="400">
 
 #### 拼接（mosaic）后的效果图
-<img src="https://github.com/mengxiangxiang414/image-mosaic/blob/master/result_imgs/ransac.png" width="500">
+<img src="result_imgs/ransac.png" width="500">
 
 
